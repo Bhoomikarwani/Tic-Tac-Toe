@@ -31,10 +31,12 @@ boxes.forEach((box) => {
   box.addEventListener("click", () => {
     if (turnO) {
       box.innerText = "O";
+      box.classList.add("x");
       turnO = false;
       
     } else {
       box.innerText = "X";
+      box.classList.remove("x");
       turnO = true;
       
     }
