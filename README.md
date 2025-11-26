@@ -10,7 +10,7 @@ This was my first mini-project to practice front-end web development fundamental
 
 ## 📸 Screenshot
 
-![A screenshot of the Tic-Tac-Toe game board](assets/Tic-Tac-Toe-Screenshot.png)
+![A screenshot of the Tic-Tac-Toe game board](Tic-Tac-Toe-Screenshot.png)
 
 
 ---
